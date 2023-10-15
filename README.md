@@ -1,6 +1,6 @@
 # Wazier Web Application
 ### Stack:
-- ### Spring Boot(?)
+- ### ~~Spring Boot(?)~~ GoLang + Gin Framework
 - ### React(?)
 - ### Docker
 - ### K8s
