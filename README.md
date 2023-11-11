@@ -8,7 +8,7 @@
 
 ### TODO:
 - [x] Design
-- [ ] Database models
+- [x] Database models
 - [ ] Backend prototype
 - [ ] Frontend prototype
 - [ ] Dockerize
